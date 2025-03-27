@@ -12,10 +12,10 @@
   [Pascal VOC dataset(Syn_CEIL)](http://host.robots.ox.ac.uk/pascal/VOC/), center-cropped as 224 x 224 slices to synthesize training pairs. And move it to ```local path```
 * 13,700 pair images from the [Berkeley synthetic dataset(Syn_zhang)](https://drive.google.com/drive/folders/1P9xc9vVxk2bbVGhvIwi37MxJuXGf-66i). And move it to```local path```
 * 89 real-world training pairs provided by [Zhang *et al.*(Real89)](https://github.com/ceciliavision/perceptual-reflection-removal). And move it to```local path```
-* 200 real-world training pairs provided by [IBCLN(Nature200)](https://github.com/JHL-HUST/IBCLN) (In our training setting 2, &dagger; labeled in our paper). And move it to```./trainData/realData```
+* 200 real-world training pairs provided by [IBCLN(Nature200)](https://github.com/JHL-HUST/IBCLN) (In our training setting 2, &dagger; labeled in our paper). And move it to```local path```
 #### Testing dataset
-* 20 real testing pairs provided by [Zhang *et al.*](https://github.com/ceciliavision/perceptual-reflection-removal); And move it to ```./testSet/real20```
-* 20 real testing pairs provided by [Li *et al.*](https://github.com/JHL-HUST/IBCLN); And move it to ```./testSet/Li```
+* 20 real testing pairs provided by [Zhang *et al.*](https://github.com/ceciliavision/perceptual-reflection-removal); And move it to ```local path```
+* 20 real testing pairs provided by [Li *et al.*](https://github.com/JHL-HUST/IBCLN); And move it to ```local path```
 * 454 real testing pairs from [SIR^2 dataset](https://sir2data.github.io/), containing three subsets (i.e., Objects (200), Postcard (199), Wild (55)). Move them separately to their corresponding folders.
 
 #### SIRR Model
